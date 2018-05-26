@@ -1,0 +1,2 @@
+# .zsh
+setting for zsh
